@@ -1,0 +1,20 @@
+{
+  "common": {
+    "ok": "OK!",
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "errors": {
+    "invalidEmail": "Invalid email address."
+  },
+  "storybook": {
+    "placeholder": "Placeholder",
+    "field": "Field"
+  },
+  "questionScreen": {
+    "header": "Questions"
+  },
+  "submitAnswerScreen": {
+    "header": "Submit an answer"
+  }
+}
